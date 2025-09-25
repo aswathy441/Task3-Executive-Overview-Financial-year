@@ -24,8 +24,13 @@ This dashboard provides a high-level **Executive Financial Overview** for five c
 
 ## 📁 Files Included
 
-- `Executive_Dashboard.pbix` – Power BI report file
-- `dashboard_screenshots/` – Visual previews of the dashboard
+-Executive_Dashboard.pbix – Power BI report file
+
+-Executive_Dashboard.pptx – PowerPoint presentation
+
+-dashboard_screenshots/ – Images/screenshots of the dashboard
+
+-README.md – Documentation with project overview and instructions
 
 
 
